@@ -1,0 +1,36 @@
+body{
+	height: 500px;
+}
+#header{
+	height: 50px;
+	background-color: #777777;
+	color: white;
+	font-size: 25px;
+	font-weight: bolder;
+	text-align: center;
+	line-height: 50px;
+}
+span{
+	color: #ccc;
+	font-size: 15px;
+}
+#main{
+	text-align: center;
+	height: 400px;
+	color: #777777;
+	font-size: 25px;
+	font-weight: bolder;
+	margin-top: 100px;
+}
+li{
+	list-style: none;
+	margin-top: 20px;
+}
+a{
+	color: #777;
+	text-decoration: none;
+}
+a:hover{
+	color: #F47;
+	text-decoration: none;
+}

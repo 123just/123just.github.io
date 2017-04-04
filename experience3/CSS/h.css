@@ -1,0 +1,180 @@
+#head{
+	box-sizing: border-box;
+	width: 292px;
+	height: 30px;
+	border: 1px solid #999999;
+}
+#notice{
+	float: left;
+	width: 57px;
+	height: 29px;
+	border-bottom: : 1px solid #ffffff;
+	border-right: 1px solid #999999;
+	background-color: white;
+	text-align: center;
+	line-height: 29px;
+}
+.otherpart{
+	box-sizing: border-box;
+	float: left;
+	width: 58px;
+	height: 28px;
+	background-color: #dddddd;
+	text-align: center;
+	line-height: 28px;
+}
+.clear{
+	clear: both;
+}
+#gg{
+	box-sizing: border-box;
+	width: 292px;
+	height: 70px;
+	border-right: 1px solid #999999;
+	border-left: 1px solid #999999;
+}
+#search1_1{
+	box-sizing: border-box;
+	width: 260px;
+	height: 20px;
+	margin: 10px 15px 6px 11px;
+}
+#search1_2{
+	box-sizing: border-box;
+	width: 260px;
+	height: 20px;
+	margin: 0 15px 10px 11px;
+}
+#dl{
+	box-sizing: border-box;
+	width: 292px;
+	height: 120px;
+	border: 1px solid #999999;
+}
+#part3{
+	width: 290px;
+	height: 80px;
+}
+#login_pic{
+	width: 65px;
+	height: 65px;
+	margin:8px 8px 0 8px;
+	float: left;
+}
+#search2_1{
+	box-sizing: border-box;
+	float: left;
+	width: 190px;
+	height: 20px;
+	margin: 20px 0 8px 0;
+}
+#search2_2{
+	float: left;
+	box-sizing: border-box;
+	width: 190px;
+	height: 20px;
+}
+#buttons{
+	width: 290px;
+	height: 40px; 
+}
+#in{
+	width: 90px;
+	height: 27px;
+	background-color: #FF4400;
+	border: 0px;
+	margin-left: 15px;
+	padding: 0;
+}
+#login{
+	width: 75px;
+	height: 27px;
+	background-color: #FF4400;
+	border: 0px;
+	padding: 0;
+}
+#store{
+	width: 75px;
+	height: 27px;
+	background-color: #FF4400;
+	border: 0;
+	padding: 0;
+}
+#search{
+	box-sizing: border-box;
+	width: 292px;
+	height: 50px;
+	border-left: 1px solid #999999;
+	border-right: 1px solid #999999;
+	text-align: center;
+	line-height: 50px;
+}
+#search3_1{
+	box-sizing: border-box;
+	width: 260px;
+	height: 20px;
+}
+#main{
+	box-sizing: border-box;
+	width: 292px;
+	height: 210px;
+	border: 1px solid #999999;
+}
+#charge{
+	box-sizing: border-box;
+	float: left;
+	width: 116px;
+	height: 140px;
+	text-align: center;
+}
+#chpic{
+	width: 40px;
+	height: 60px;
+	margin-top: 25px;
+}
+#chword{
+	width: 40px;
+	height: 20px;
+	color: #999999;
+	font-size: 5px;
+	margin-top: 10px;
+	margin-left:  37px;
+}
+.otherpart4{
+	box-sizing: border-box;
+	float: left;
+	width: 58px;
+	height: 70px;
+	border-left: 1px solid #999999;
+	border-top: 1px solid #999999; 
+	text-align: center;
+}
+.otherpart4_1{
+	box-sizing: border-box;
+	float: left;
+	width: 58px;
+	height: 70px;
+	border-left: 1px solid #999999;
+	text-align: center;
+}
+.otherpart4_2{
+	box-sizing: border-box;
+	float: left;
+	width: 58px;
+	height: 70px;
+	border-top: 1px solid #999999;
+	text-align: center;
+}
+.pic4{
+	width: 20px;
+	height: 20px;
+	margin-top: 15px;
+}
+.words{
+	width: 58px;
+	height: 20px;
+	color: #999999;
+	font-size: 5px;
+	margin-top: 10px;
+	/*margin-left:  37px;*/
+}
