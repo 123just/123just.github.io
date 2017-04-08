@@ -1,0 +1,13 @@
+#ui-ex3{
+	width: 1210px;
+	height: 780px;
+	background-color: #F2F2F2;
+	flex-wrap: wrap;
+	justify-content: center;
+	align-items: center;
+}
+.ui-ex3-container{
+	width: 1190px;
+	height: 370px;
+	justify-content: space-between;
+}

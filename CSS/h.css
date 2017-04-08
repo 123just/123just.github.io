@@ -1,36 +1,99 @@
+*{
+	padding: 0;
+	margin: 0;
+}
 body{
-	height: 500px;
+	width: screen.width;
+	background-color: #006284;
+	display: flex;
 }
-#header{
-	height: 50px;
-	background-color: #777777;
-	color: white;
-	font-size: 25px;
-	font-weight: bolder;
-	text-align: center;
-	line-height: 50px;
+#ui-left{
+	width: 900px;
 }
-span{
-	color: #ccc;
-	font-size: 15px;
+#ex1{
+	display: inline-block;
+	background-color: #ee8877;
+	width: 410px;
+	height: 120px;
+	line-height: 120px;
 }
-#main{
-	text-align: center;
-	height: 400px;
-	color: #777777;
-	font-size: 25px;
-	font-weight: bolder;
-	margin-top: 100px;
-}
-li{
-	list-style: none;
-	margin-top: 20px;
+#ex1:hover{
+	background-color: #ee8877;
+	width: 610px;
+	height: 120px;
+	line-height: 120px;
 }
 a{
-	color: #777;
-	text-decoration: none;
+	width: auto;
 }
-a:hover{
-	color: #F47;
-	text-decoration: none;
+#ex2{
+	display: inline-block;
+    background-color: #cd6a97;
+    width: 550px;
+    height: 190px;
+    line-height: 190px; 
+}
+#ex2:hover{
+    background-color: #cd6a97;
+    width: 750px;
+    height: 190px;
+    line-height: 190px;
+}
+#ex3{
+	display: inline-block;
+	background-color: #ab47bc;
+	width: 621px;
+	height: 170px;
+	line-height: 170px;
+}
+#ex3:hover{
+	background-color: #ab47bc;
+	width: 821px;
+	height: 170px;
+	line-height: 170px;
+}
+#ex4{
+	display: inline-block;
+	background-color: #7e57c2;
+	width: 500px;
+	height: 130px;
+	line-height: 130px;
+}
+#ex4:hover{
+	background-color: #7e57c2;
+	width: 700px;
+	height: 130px;
+	line-height: 130px;
+}
+#ex5{
+	display: inline-block;
+	background-color: #5c6bc0;
+	width: 760px;
+	height: 190px;
+	line-height: 190px;
+}
+#ex5:hover{
+	background-color: #5c6bc0;
+	width: 900px;
+	height: 190px;
+	line-height: 190px;
+}
+span{
+	float: right;
+	margin-right: 20px;
+	color: #fff;
+	font-size: 25px;
+	font-family: "微软雅黑";
+	/*font-weight: ;*/
+}
+#ui-right{
+	flex: 1;
+}
+#ui-right-introduce{
+	color: #fff;
+	font-size: 40px;
+	font-family: "微软雅黑";
+	font-weight: bolder;
+	text-shadow: 2px 2px 4px #fff;
+	margin-top: 200px;
 }
