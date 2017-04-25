@@ -321,3 +321,9 @@ p{
 	height: 12px;
 	background: linear-gradient( #49B8E5,#188BD4);
 }
+.fa-bus{
+	color: #38A3E9;
+}
+.fa-taxi{
+	color: #009261;
+}
