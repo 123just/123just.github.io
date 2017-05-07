@@ -1,0 +1,36 @@
+html{
+	height:100%;
+}  
+body{
+	display: flex;
+	height:100%;
+	margin:0;
+	padding:0;
+}  
+#myMap{
+	flex: 1;
+	height: 100%;
+}
+#return{
+	height: 3%;
+}
+#return-button{
+	height: 100%;
+	width: 50px;
+	color: #994C00;
+	border: solid 1px #994400;
+	border-bottom: 0;
+	background-color: #FFDD99;
+}
+#result1{
+	width: 400px;
+	height: 50%;
+	background-color: #FFDD99;
+	overflow: scroll;
+}
+#result2{
+	width: 400px;
+	height: 47%;
+	background-color: #fff;
+	overflow: scroll;
+}
